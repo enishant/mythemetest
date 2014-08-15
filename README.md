@@ -1,2 +1,2 @@
-mythemetest
+My Theme Test
 ===========
